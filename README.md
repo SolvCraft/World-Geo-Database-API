@@ -1,21 +1,22 @@
-# Free Open-Source World Country State City Pincode API
+# Free Open-Source World Geo Database API
 
-Welcome to the fastest, most reliable, and 100% free **World Country State City Pincode API**. Designed for developers who need extreme performance, low-latency, and uncompromised privacy, this API is built entirely on the edge.
+Welcome to the **Free Open-Source World Geo Database API**! Built for extreme speed, low latency, and uncompromising privacy. Discover worldwide countries, states, cities, and pincodes near-instantaneously without the hassle of rate-limited subscriptions.
 
-## 🔥 Why Choose This API?
+## 🚀 Extreme Performance & Speed
+Our API is fully optimized and powered by Edge networking (Cloudflare Workers). This means the data sits geographically closer to your users, reducing latency to virtually zero. Forget sluggish database queries; get instantaneous responses to power your modern web or mobile applications.
 
-- **Blazing Fast Global Response Times**: Hosted entirely on the Edge. No matter where your users are, the geographic data is served globally with near-zero latency.
-- **Privacy-First Architecture**: Your users' data is safe. We do not store unmasked IP addresses or personally identifiable information (PII). Everything is securely masked before analytics processing.
-- **100% Free & Open-Source**: Stop paying for expensive location APIs. This API provides comprehensive country, state, city, and pincode/zipcode data completely free of charge.
-- **Edge-Native Analytics**: We leverage non-blocking async operations to ensure that analytical processing never slows down your API requests. You get the location data instantly while background tasks handle the rest.
+## 🛡️ Privacy First
+We believe your users' data is sacred. Our system is built with zero-trust principles, meaning no unmasked or raw personally identifiable information (PII) is securely held by our analytics pipelines. Enjoy comprehensive geographic tracking capabilities without compromising User Agent privacy or precise IP records.
 
-## 🚀 Key Features
-- **Comprehensive Data**: Covers every country, state/region, city, and postal code worldwide.
-- **High Availability**: Built on world-class infrastructure, ensuring 99.99% uptime for your mission-critical applications.
-- **Secure & Masked Analytics**: Built specifically with enterprise-grade privacy in mind.
+## 🌍 Always 100% Free & Open-Source
+Why pay for basic world geographical metadata when you can have it completely free? No complex billing, no API tokens needed for public use. It's open, performant, and developer-friendly.
 
-## 📚 Interactive Documentation
-Explore the full capability of our endpoints with our interactive Swagger UI directly via `/docs`. Easily integrate swagger standards with the OpenAPI 3.0 specs available at `/openapi.json`.
+## 🔌 API Features at a Glance:
+- **Instant Search**: Look up Country, State, City, or Pincodes securely.
+- **Edge Deployment**: Lightning-fast resolution around the world.
+- **Background Analytics**: Observability that does not penalize response times.
+- **Beautiful OpenAPI Spec**: Integrate instantly via our automated Swagger UI mapping.
 
----
-*Built for speed. Designed for privacy. 100% Free.*
+> 📚 Check out the live interactive docs directly via `/docs` (Swagger UI) or the OpenAPI 3.0 specs at `/openapi.json`.
+
+Get started today and supercharge your location forms, checkout flows, and user profiles with this completely **Free Open-Source Validator Library**.
