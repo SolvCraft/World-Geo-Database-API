@@ -11,12 +11,12 @@ We believe your users' data is sacred. Our system is built with zero-trust princ
 ## 🌍 Always 100% Free & Open-Source
 Why pay for basic world geographical metadata when you can have it completely free? No complex billing, no API tokens needed for public use. It's open, performant, and developer-friendly.
 
-## 🔌 API Features at a Glance:
-- **Instant Search**: Look up Country, State, City, or Pincodes securely.
-- **Edge Deployment**: Lightning-fast resolution around the world.
-- **Background Analytics**: Observability that does not penalize response times.
-- **Beautiful OpenAPI Spec**: Integrate instantly via our automated Swagger UI mapping.
+## 🔌 Live Endpoints
+Test out the blazing-fast production endpoints right now:
+- **Interactive Swagger UI**: [https://world-geo-database-api.solvcraft.workers.dev/docs](https://world-geo-database-api.solvcraft.workers.dev/docs)
+- **OpenAPI 3.0 Specs**: [https://world-geo-database-api.solvcraft.workers.dev/openapi.json](https://world-geo-database-api.solvcraft.workers.dev/openapi.json)
+- **Base Search Endpoint**: `https://world-geo-database-api.solvcraft.workers.dev/api/search?q=[YourQuery]`
 
-> 📚 Check out the live interactive docs directly via `/docs` (Swagger UI) or the OpenAPI 3.0 specs at `/openapi.json`.
+> **Example Query:** `GET https://world-geo-database-api.solvcraft.workers.dev/api/search?q=New` returns instant global mappings for countries, states, and postal codes matching "New".
 
 Get started today and supercharge your location forms, checkout flows, and user profiles with this completely **Free Open-Source Validator Library**.
